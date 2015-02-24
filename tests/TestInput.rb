@@ -1,0 +1,6 @@
+API_KEY = 'B4A4CEF2D2F1388'
+API_SECRET = '56DE96C03F9FB871073E02185ABA91'
+APP_LOC = 'testapp.apk'
+INV_APP_LOC = 'testapp.txt'
+E_APP_LOC = 'home/ubuntu/apk/'
+
